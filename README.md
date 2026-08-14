@@ -4,6 +4,10 @@ A self-hosted, open-source cron job manager. Create, schedule, run, and monitor
 recurring jobs — either HTTP requests or shell commands — from a lightweight
 web dashboard, with a full REST API underneath.
 
+## 🚀 Live Demo
+
+🔗 **[Try Cronify Live](https://cronify-ap7z.onrender.com)**
+
 ## Features
 
 - **Web dashboard** — create, edit, pause/resume, delete, and manually trigger jobs
