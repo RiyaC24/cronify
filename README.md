@@ -6,7 +6,7 @@ web dashboard, with a full REST API underneath.
 
 ## 🚀 Live Demo
 
-🔗 **[Try Cronify Live](https://cronify-ap7z.onrender.com)**
+🔗 https://cronify-ap7z.onrender.com
 
 ## Features
 
